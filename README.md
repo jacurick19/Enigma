@@ -4,7 +4,9 @@ A C implementation of the Enigma cipher machine with no memory leaks.
 # Usage: 
 
 >make
+
 >./x mystringtoencrypt
+
 From here, the program will instruct you to select the initial rotor orientation and deliver your encryption.
 # Notes and Limitations
 - Currently only accepts lowercase inputs with no spaces
